@@ -71,6 +71,6 @@ Resultados Esperados:
 
 ![image](https://github.com/user-attachments/assets/6f9951ce-5ff1-4536-9ee9-769a3c68c774)
 ![image](https://github.com/user-attachments/assets/f82efc4b-6255-4c32-8ebc-7d60b90bafb8)
-![image](https://github.com/user-attachments/assets/c347867b-f872-445d-96c6-07fae3152417)
+![image](https://github.com/user-attachments/assets/a229d2b7-8aba-4f56-bced-544e1b6c94db)
 
 
