@@ -67,3 +67,5 @@ Fonte dos Dados
 Os dados utilizados são provenientes do ALM (Application Lifecycle Management) do projeto Vale, contendo informações sobre defeitos funcionais identificados durante os meses de maio e junho de 2025.
 
 
+Resultado
+![image](https://github.com/user-attachments/assets/6f9951ce-5ff1-4536-9ee9-769a3c68c774)
