@@ -49,7 +49,7 @@ dashboard-defeitos-funcionais/
 
 └── README.md # Este arquivo
 
-Métricas Disponíveis
+Métricas Disponíveis:
 Total de Registros: Quantidade total de defeitos filtrados
 Status Mais Comum: Status que aparece com maior frequência
 Mediana Dias Aberto: Valor central de dias que os defeitos ficam em aberto
@@ -57,13 +57,13 @@ Datas de Abertura: Primeira e última data de abertura dos defeitos
 Datas de Fechamento: Primeira e última data de fechamento dos defeitos
 Breakdown por Status: Distribuição percentual detalhada por status
 
-Como Usar
+Como Usar:
 Selecione os filtros: Use os checkboxes para escolher quais ciclos visualizar
 Analise os dados: Visualize a tabela filtrada com todos os defeitos
 Acompanhe as métricas: Observe as estatísticas calculadas automaticamente
 Compare status: Analise a distribuição percentual na seção breakdown
 
-Fonte dos Dados
+Fonte dos Dados:
 Os dados utilizados são provenientes do ALM (Application Lifecycle Management) do projeto Vale, contendo informações sobre defeitos funcionais identificados durante os meses de maio e junho de 2025.
 
 
