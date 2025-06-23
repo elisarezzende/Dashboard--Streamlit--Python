@@ -13,7 +13,7 @@ st.title("📊 Dashboard de Defeitos")
 @st.cache_data
 def carregar_dados():
     try:
-        df = pd.read_excel('dados/Defeitos abertos Maio e Junho 2025.xlsx')
+        df = pd.read_excel('dados/relatorio-defeitos.xlsx')
         df['Status_normalizado'] = df['Status'].str.lower().str.strip()  # Normaliza status
         return df
     except Exception as e:
