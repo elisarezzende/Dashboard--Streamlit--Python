@@ -50,13 +50,7 @@ source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 ```
 
-4. Instale as dependências:
-
-```bash
-pip install -r requirements.txt
-```
-
-5. Execute a aplicação:
+4. Execute a aplicação:
 
 ```bash
 streamlit run app.py
@@ -82,15 +76,3 @@ streamlit run app.py
 - Exportação de relatórios automáticos
 - Implementação de autenticação de usuários
 - Melhoria no design responsivo
-
----
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
----
-
-## 🧠 Licença
-
-Este projeto está sob a licença [MIT](LICENSE).
