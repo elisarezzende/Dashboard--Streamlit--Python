@@ -69,11 +69,8 @@ streamlit run app.py
 ```
 📦 nome-do-projeto
  ┣ 📜 app.py
- ┣ 📜 requirements.txt
- ┣ 📂 data
+ ┣ 📂 dados
  ┃ ┗ 📜 exemplo.xlsx
- ┣ 📂 assets
- ┃ ┗ 📜 imagens e logos
  ┗ 📜 README.md
 ```
 
