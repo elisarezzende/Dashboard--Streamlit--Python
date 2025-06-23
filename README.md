@@ -77,3 +77,17 @@ streamlit run app.py
 - Implementação de autenticação de usuários
 - Melhoria no design responsivo
 - Cenários com maior número de defeitos
+
+Funcionamento:
+![image](https://github.com/user-attachments/assets/f0ac90e6-4c0e-4760-93e4-d04530930f8f)
+![image](https://github.com/user-attachments/assets/4377a63b-4e8c-4fd2-bec1-cb0a1ad01b7e)
+![image](https://github.com/user-attachments/assets/38385044-959a-4928-ae74-bf7b895e6e6e)
+![image](https://github.com/user-attachments/assets/62a08bcb-9341-4e8e-b4f8-db1d5f94d8df)
+![image](https://github.com/user-attachments/assets/2083deee-8fa9-4c6a-8e47-e6b51d44077b)
+![image](https://github.com/user-attachments/assets/1326d41a-b732-4c44-98b8-5efabb9e624a)
+
+
+
+
+
+
