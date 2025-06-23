@@ -1,7 +1,7 @@
 
 # 📊 Dashboard de Análise de Dados
 
-Este projeto consiste em um dashboard interativo desenvolvido em **Streamlit**, que permite a análise de dados de forma dinâmica e visual. A aplicação conta com filtros inteligentes, gráficos interativos e indicadores de desempenho, oferecendo uma visão clara e objetiva dos dados.
+Este projeto consiste em um dashboard interativo desenvolvido em **Streamlit**, que permite a análise de dados de forma dinâmica e visual. A aplicação conta com filtros inteligentes, gráficos interativos e indicadores de desempenho, oferecendo uma visão clara e objetiva dos dados. Feito a partir de uma necessidade em testes, onde se faz necessário consolidar todas as informações de defeitos funcionais encontrados durantes ciclos de teste de regressão. Dessa forma, facilitando análises e tomadas de decisão.
 
 ---
 
@@ -76,3 +76,4 @@ streamlit run app.py
 - Exportação de relatórios automáticos
 - Implementação de autenticação de usuários
 - Melhoria no design responsivo
+- Cenários com maior número de defeitos
