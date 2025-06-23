@@ -33,13 +33,13 @@ Este projeto consiste em um dashboard interativo desenvolvido em **Streamlit**, 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://https://github.com/elisarezzende/Dashboard--Streamlit--Python
 ```
 
 2. Acesse a pasta do projeto:
 
 ```bash
-cd nome-do-projeto
+cd Dashboard--Streamlit--Python
 ```
 
 3. (Opcional) Crie um ambiente virtual:
